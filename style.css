@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.contain {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    margin: 10px;
+}
+
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+
+}
+
+nav ul li a {
+    margin: 10px;
+}
